@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GloriaZagal
-- 👀 I’m interested in Data Science and Data Visualization
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Data Visualization and Data Governance
+
 
 <!---
 GloriaZagal/GloriaZagal is a ✨ special ✨ repository because its `README.md`
